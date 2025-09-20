@@ -1,4 +1,7 @@
 # ✨ Personal Portfolio  
+
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-yellow.svg)](./LICENSE)
+
 A modern and animated hero section with:  
 
 - Crystal-like glass shards (parallelogram style) in the middle  
