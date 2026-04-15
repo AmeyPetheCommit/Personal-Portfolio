@@ -11,7 +11,7 @@ A modern and animated hero section with:
 - Fully responsive design  
 
 # 🚀 Live Demo  
-👉 https://your-demo-link.netlify.app  
+👉 https://ameypethe-portfolio.netlify.app  
 
 # 📁 Files  
 - `index.html` – Structure of the hero section  
